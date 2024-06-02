@@ -1,5 +1,6 @@
 # 2023-1-summer-vacation
 2023 1st Semester Summer Vacation Telecommunications Network Hackathon (Population Density Prediction, Alarm Type Classification)
+
 Hosted by: ETRI, KT
 
 ## 💻 Project Introduction
